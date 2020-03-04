@@ -1,6 +1,6 @@
 # VK Voice Message
 
-A small script that is designed for easy downloading of voice messages to the VK
+A small script that is designed for easy uploading of voice messages to the VK
 
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
