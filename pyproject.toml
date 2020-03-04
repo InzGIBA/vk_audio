@@ -7,7 +7,6 @@ authors = ["Almas Baktubayev"]
 [tool.poetry.dependencies]
 python = "^3.8"
 vk-api = "^11.7.0"
-pywin32-ctypes = {version = "^0.2.0", platform = "windows"}
 
 [tool.poetry.dev-dependencies]
 black = "^19.10b0"
