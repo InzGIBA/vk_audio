@@ -16,6 +16,10 @@ A step by step series of examples that tell you how to get a development env run
 ```
 pip install poetry
 poetry install
+```
+
+### Running
+```
 poetry run python main.py
 ```
 
